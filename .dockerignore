@@ -1,0 +1,17 @@
+target
+.idea
+.vscode
+*.iml
+.mvn
+.git
+.gitignore
+README.md
+**/logs
+target/
+.mvn/
+.git/
+.gitignore
+*.md
+.vscode/
+.idea/
+*.iml
